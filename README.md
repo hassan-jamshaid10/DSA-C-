@@ -19,5 +19,14 @@ This Repo Includes following codes:
 <br>
 -Vectors
 <br>
+-Maps
+<br>
+-Hashing
+<br>
+-Heaps
+<br>
+-Graphs
+<br>
+-Huffman Encoding
 
 I will update this repo every month. Many more codes to come 
